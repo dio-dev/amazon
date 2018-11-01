@@ -1,5 +1,14 @@
 {
-  "user_name": "alex_dio_dev1",
-  "user_mail": "h268526011asd@nwytg.net",
-  "user_mail_pass": "dfdsdf"
+	accounts: [
+		{
+			"user_name": "alex_dio_dev1",
+			"user_mail": "h268526011as@nwytg.net",
+			"user_mail_pass": "dfdsdf"
+		},
+		{
+			"user_name": "alex_dio_dev2",
+			"user_mail": "h266011as@nwytg.net",
+			"user_mail_pass": "dfdsdsf"
+		}
+	]
 }
